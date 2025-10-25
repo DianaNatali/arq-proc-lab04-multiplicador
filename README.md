@@ -1,5 +1,4 @@
-# lab04: Multiplicador de 3 bits usando Máquina de Estados
-
+# lab04: Multiplicador 
 
 ## Integrantes 
 
